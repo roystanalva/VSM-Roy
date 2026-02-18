@@ -295,8 +295,8 @@ For issues or questions:
 
 ## License
 
-ISC
+Klixa
 
 ## Author
 
-Automation Team
+QA - Tests
